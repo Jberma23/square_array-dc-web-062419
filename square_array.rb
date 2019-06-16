@@ -1,6 +1,6 @@
 def square_array(array)
   array.each do |element|
-    puts "sqrt.#{element}"
+   sqrt.element
 
   end
 end
