@@ -1,3 +1,6 @@
 def square_array(array)
-  # your code here
+  array.each do |element|
+    puts "remove #{element}"
+  
+  end
 end
